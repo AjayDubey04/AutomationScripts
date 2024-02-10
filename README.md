@@ -1,10 +1,7 @@
-![logo](https://github.com/AjayDubey04/automation-testing-scripts/blob/main/Simple%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ajay Dubey</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
-<img align="right" alt="coding" width="400" src="https://thinksys.com/wp-content/uploads/2023/07/Secure-Coding.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydubey04&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydubey04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaydubey04" alt="ajaydubey04" /></a> </p>
 
 - 💬 Ask me about **Testing Skills**
 
@@ -23,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaydubey04&show_icons=true&locale=en&layout=compact" alt="ajaydubey04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaydubey04&show_icons=true&locale=en" alt="ajaydubey04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaydubey04&" alt="ajaydubey04" /></p>
